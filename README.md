@@ -1,1 +1,1 @@
-# HCI_06_Personal_Finanace_Tracker
+# Personal_Finanace_Tracker
